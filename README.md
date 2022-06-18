@@ -11,3 +11,5 @@ If you copy for you use, I have recommendations.
 If you copy for you use, please give me the credits, don't lie saying that you develop it.
 
 Enjoy!
+
+( files have commentary )
