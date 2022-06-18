@@ -1,4 +1,4 @@
-# *discord-bot
+# discord-bot
 
 ## A simple bot that i maked with Python.
 
