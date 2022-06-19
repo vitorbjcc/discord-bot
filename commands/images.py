@@ -39,7 +39,7 @@ class Images(commands.Cog):
             color = 0x32cadb
         )
 
-        embed.add_field(name='TROLLED', value='BE CAREFULL')
+        embed.add_field(name='TROLLED', value='BE CAREFULL ' + ctx.author.user.name)
 
         embed.add_field(name='SONG', value='THIS SONG IS VERY GOOD')
 
